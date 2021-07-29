@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://assets.selleo.com/banners/bfryczkowska.svg)
 
 <!--
 **creativeBernadka/creativeBernadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
